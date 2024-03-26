@@ -1,0 +1,27 @@
+{
+  "name": "MyCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "First Cocopod as Library.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mritunjay.apple@gmail.com/MyCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mritunjay.apple@gmail.com": "mkumar@synamedia.com"
+  },
+  "source": {
+    "git": "https://github.com/mritunjay.apple@gmail.com/MyCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLibrary/Classes/**/*",
+  "resource_bundles": {
+    "Resources": [
+      "MyCocoapodsLibrary/Assets/*.png"
+    ]
+  }
+}
